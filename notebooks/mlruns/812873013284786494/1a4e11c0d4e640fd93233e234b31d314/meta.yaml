@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLflow/notebooks/mlruns/812873013284786494/1a4e11c0d4e640fd93233e234b31d314/artifacts
+end_time: 1740016676634
+entry_point_name: ''
+experiment_id: '812873013284786494'
+lifecycle_stage: active
+run_id: 1a4e11c0d4e640fd93233e234b31d314
+run_name: Modelo RandomForest V2
+run_uuid: 1a4e11c0d4e640fd93233e234b31d314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740016670086
+status: 3
+tags: []
+user_id: codespace

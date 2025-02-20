@@ -1,0 +1,14 @@
+digest: fb24d463
+name: BikeBuyer quality
+profile: '{"num_rows": 3671, "num_elements": 44052}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "HomeOwnerFlag", "required":
+  true}, {"type": "long", "name": "NumberCarsOwned", "required": true}, {"type": "long",
+  "name": "NumberChildrenAtHome", "required": true}, {"type": "long", "name": "TotalChildren",
+  "required": true}, {"type": "long", "name": "YearlyIncome", "required": true}, {"type":
+  "double", "name": "AvgMonthSpend", "required": true}, {"type": "long", "name": "City_n",
+  "required": true}, {"type": "long", "name": "Education_n", "required": true}, {"type":
+  "long", "name": "Occupation_n", "required": true}, {"type": "long", "name": "Gender_n",
+  "required": true}, {"type": "long", "name": "MaritalStatus_n", "required": true},
+  {"type": "long", "name": "BikeBuyer", "required": true}]}'
+source: '{"url": "https://github.com/LeoPalaciosC/Caso-AW-Bikes/blob/main/data/Aw_Bike.xlsx"}'
+source_type: http
